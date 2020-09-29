@@ -19,10 +19,10 @@ var thunderDisplay = 0;
 
 function preload() {
 
-thunder1img = loadImage("thunderbolt/1.png");
-thunder2img = loadImage("thunderbolt/2.png");
-thunder3img = loadImage("thunderbolt/3.png");
-thunder4img = loadImage("thunderbolt/4.png");
+thunder1img = loadImage("/thunderbolt/1.png");
+thunder2img = loadImage("/thunderbolt/2.png");
+thunder3img = loadImage("/thunderbolt/3.png");
+thunder4img = loadImage("/thunderbolt/4.png");
 
 }
 
